@@ -8,7 +8,7 @@
 3.Groq - To extract only the required fields like title, description, and acceptance criteria of the user story
 4.Prompt Template- ICE-POT template is used to give the prompt along with a variable
 5.Groq - To generate the review score
-6.Write File - To write the "User Story Review Summary" along with score into a text file<img width="723" height="162" alt="image" src="https://github.com/user-attachments/assets/8dac1302-b427-4ced-a95e-d2f590b6f4c4" />
+6.Write File - To write the "User Story Review Summary" along with score into a text file
 
                      
 
